@@ -22,10 +22,6 @@ A simple and lightweight RESTful API built using Node.js and Express.js for mana
 
 ---
 
-## How to set up on your device
-
----
-
 ## ⚙️ Setup Instructions (Local)
 
 Follow these steps to run the project on your local machine:
